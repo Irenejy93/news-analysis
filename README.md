@@ -1,5 +1,3 @@
-# LLM Fine-Tuning Repository
-
 ## 🚀 소개
 # 뉴스 분석 LLM 사용법 저장소
 
